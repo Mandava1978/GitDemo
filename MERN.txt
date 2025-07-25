@@ -1,0 +1,217 @@
+*************************************************************
+			MERN STACK
+*************************************************************
+
+WEB DEVELOPMENT BOOTCAMP
+============================================
+INTRODUCTION
+HTML
+CSS
+JAVASCRIPT
+JQUERY
+BOOTCAMP
+MAJOR PROJECT KILLER WEBSITE
+INTRODUCTION TO BACKEND
+NODEJS
+EXPRESS WITHH NODEJS
+API
+GIT AND GITHUB
+EJS
+MONGODB
+MONGOOSE
+PUTTING IT ALL TOGETHER
+CREATING OUR OWN REST API
+AUTHENTICATION AND SECURITY
+REACT JS
+MAJOR PROJECT LET'S TRAVEL WEBSITE
+
+**************************************************
+
+
+Web Development gives us opportunity to express ourself over the internet
+
+Code Files
+---------------
+1. HTML
+2. CSS
+3. JS
+-------------------
+Use  https://codepen.io/pen/
+
+
+***************************************************
+
+MEAN STACK
+	>> M: MongoDB (Database)
+	>> E: ExpressJS (Backend)
+	>> A: Angular (Frontend)
+	>> N: NodeJs (Backend)
+
+
+Three Pillars
+	>> HTML (HYPER TEXT MARKUP LANGUAGE)
+	>> CSS (CASCADING STYLE SHEETS)
+	>> JS (JAVA SCRIPT)
+
+Other Stacks
+	>> MEAN
+	>> MERN, 
+	>> PYTHON FULL STACK, 
+	>> .NET FULL STACK, 
+	>> JAVA FULL STACK, etc...
+
+
+WEB DEVLOPMENT
+	>> Building / Developers Team
+	>> Testing Team ( Manual Testers / Automated Testers)
+	>> Hosting Team (DEVOPS Team)
+	>> Maintenance TEAM / Support Team
+
+SDLC (SOFTWARE DEVELOPMENT LIFE CYCLE):-	
+	>> Waterfall Model
+	>> Agile Model
+	>> Spiral Model
+	>> Iterative Model
+	>> Incremental Modal
+	>> V Shaped Model
+	>> RAD (Rapid Application Development ) Model
+
+URL (Uniform Resource Locator)
+	https://www.instagram.com
+	https://education.MandavaAcademy.edu/FullStack
+
+	https: Protocol
+	MandavaAcademy: Server / Domain Name
+	education: Sub-Domain
+	.edu: TLD (Top Level Domain)
+	FullStack: Path / Location
+
+Protocol:
+	>> Set of rules/instructions
+		http --> Hyper Text Transfer Protocol
+		https --> Hyper Text Transfer Protocol Secure
+		tcp --> Transmission Control Protocol
+		udp --> User Datagram Protocol
+		smtp --> Simple Mail Transfer Protocol
+		ftp --> File Transfer Protocol
+		ip  --> Internet Protocol
+
+	>> Client / Web Page ---- (uname & upwd) -- Instagram Server
+
+
+Server / Domain Name:
+	>> Unique Identifier
+	    >> Eg: Google
+
+Sub-Domain Name:
+	>> gMeet
+	>> gMaps
+	>> gDrive
+	>> Gmail
+	>> gPhotos
+	>> gFiles
+	>> gChrome
+	>> gCalendar
+	>> gPay
+
+
+Amazon.com
+aws.amazon.com
+
+
+TLD (Top Level Domain):
+	Amazon.in (India)
+	Amazon.com (commercial)
+	Amazon.edu (education)
+	Amazon.org (organization)
+	Amazon.uk (united kingdom)
+
+Offline Editors
+	>> Notepad
+	>> Notepad++
+	>> Sublime
+	>> Open Brackets
+	>> VS Code
+
+Online Editor
+	>> CodeSpace
+	>> CodeSandbox 
+
+*************************************************************
+
+Git 
+	>> Version Control
+	
+	v1
+	v2
+	v3
+New	v4
+Rollback v3
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking
+>> Recovery
+
+Git Download :- https://git-scm.com/downloads 
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+
+GitHub :- https://github.com/
+
+CMD --> 
+>> For 1st time need to configure GitHub in our system
+
+>> git config --global user.name "Mandava1978"
+>> git congig --global user.email "srinumandavaaws@gmail.com"
+>> git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+
+>> git remote add origin https://github.com/Mandava1978/GitDemo.git
+
+>> git pull origin main
+
+>> git status
+
+>> git add .
+
+>> git status
+
+>> git commit -m "Commit Message"
+
+>> git push
+
+>> git push --set-upstream origin main
+
+
+-- Separate Branch : Day1
+
+>> git checkout -b "Day1Branch" 
+
+>> git status
+
+>> git add .
+
+>> git commit -m "dummy"
+
+>> git push --set-upstream origin Day1Branch
+
+>> git clone https://github.com/Mandava1978/GitDemo.git
+
+
+
+
+
+
+
+
+
+
+
+
